@@ -1,0 +1,17 @@
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.deps.json
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.dll
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\bin\Debug\net8.0\MyApplication.Application.pdb
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\bin\Debug\net8.0\MyApplication.Domain.dll
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\bin\Debug\net8.0\MyApplication.Shared.dll
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\bin\Debug\net8.0\MyApplication.Domain.pdb
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\bin\Debug\net8.0\MyApplication.Shared.pdb
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.csproj.AssemblyReference.cache
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.AssemblyInfoInputs.cache
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.AssemblyInfo.cs
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.csproj.CoreCompileInputs.cache
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\MyApplic.05EA8228.Up2Date
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.dll
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\refint\MyApplication.Application.dll
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\MyApplication.Application.pdb
+D:\Learning\MyApplication\MyApplication\MyApplication.Application\obj\Debug\net8.0\ref\MyApplication.Application.dll

@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\MyApplication\\MyApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|d:\\learning\\myapplication\\myapplication\\myapplication\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8816D22-51E7-4BAB-AD6F-1357E46C6360}|MyApplication.Persistance\\MyApplication.Persistance.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.persistance\\addpersistanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8816D22-51E7-4BAB-AD6F-1357E46C6360}|MyApplication.Persistance\\MyApplication.Persistance.csproj|solutionrelative:myapplication.persistance\\addpersistanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.identity\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|solutionrelative:myapplication.identity\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.application\\models\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|solutionrelative:myapplication.application\\models\\authentication\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.application\\models\\authentication\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|solutionrelative:myapplication.application\\models\\authentication\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.application\\models\\authentication\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|solutionrelative:myapplication.application\\models\\authentication\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.application\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|solutionrelative:myapplication.application\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.application\\models\\authentication\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|solutionrelative:myapplication.application\\models\\authentication\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.identity\\identityregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|solutionrelative:myapplication.identity\\identityregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|d:\\learning\\myapplication\\myapplication\\myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.identity\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|solutionrelative:myapplication.identity\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|d:\\learning\\myapplication\\myapplication\\myapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|d:\\learning\\myapplication\\myapplication\\myapplication\\swagger\\addswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\swagger\\addswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.application\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|solutionrelative:myapplication.application\\contracts\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.application\\models\\authentication\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|solutionrelative:myapplication.application\\models\\authentication\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.application\\models\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C4EB7E-1EEB-478E-81F1-949A58A43E2B}|MyApplication.Application\\MyApplication.Application.csproj|solutionrelative:myapplication.application\\models\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.identity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|solutionrelative:myapplication.identity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|d:\\learning\\myapplication\\myapplication\\myapplication\\myapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2432E70-9239-43F5-94A9-63DC2E1790BB}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\myapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.identity\\myapplication.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|solutionrelative:myapplication.identity\\myapplication.identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|d:\\learning\\myapplication\\myapplication\\myapplication.identity\\migrations\\20250524123825_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D40CA0E-7D37-412D-9BA3-7F3AFC1CB1FF}|MyApplication.Identity\\MyApplication.Identity.csproj|solutionrelative:myapplication.identity\\migrations\\20250524123825_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityRegistrationService.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\IdentityRegistrationService.cs",
+              "RelativeDocumentMoniker": "MyApplication.Identity\\IdentityRegistrationService.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\IdentityRegistrationService.cs",
+              "RelativeToolTip": "MyApplication.Identity\\IdentityRegistrationService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:51:21.268Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPersistanceService.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Persistance\\AddPersistanceService.cs",
+              "RelativeDocumentMoniker": "MyApplication.Persistance\\AddPersistanceService.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Persistance\\AddPersistanceService.cs",
+              "RelativeToolTip": "MyApplication.Persistance\\AddPersistanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:35:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccountController.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\Controllers\\UserAccountController.cs",
+              "RelativeDocumentMoniker": "MyApplication\\Controllers\\UserAccountController.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\Controllers\\UserAccountController.cs",
+              "RelativeToolTip": "MyApplication\\Controllers\\UserAccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:08:48.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "MyApplication.Application\\Models\\Authentication\\RegistrationRequest.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\RegistrationRequest.cs",
+              "RelativeToolTip": "MyApplication.Application\\Models\\Authentication\\RegistrationRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:16:19.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationResponse.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\RegistrationResponse.cs",
+              "RelativeDocumentMoniker": "MyApplication.Application\\Models\\Authentication\\RegistrationResponse.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\RegistrationResponse.cs",
+              "RelativeToolTip": "MyApplication.Application\\Models\\Authentication\\RegistrationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:15:11.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "MyApplication.Application\\Models\\Authentication\\AuthenticationResponse.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\AuthenticationResponse.cs",
+              "RelativeToolTip": "MyApplication.Application\\Models\\Authentication\\AuthenticationResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:12:05.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "MyApplication.Identity\\Services\\AuthenticationService.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "MyApplication.Identity\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:25:37.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "MyApplication.Application\\Models\\Authentication\\AuthenticationRequest.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\AuthenticationRequest.cs",
+              "RelativeToolTip": "MyApplication.Application\\Models\\Authentication\\AuthenticationRequest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:11:48.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Responses\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "MyApplication.Application\\Responses\\BaseResponse.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Responses\\BaseResponse.cs",
+              "RelativeToolTip": "MyApplication.Application\\Responses\\BaseResponse.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:32:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MyApplication\\Program.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\Program.cs",
+              "RelativeToolTip": "MyApplication\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:57:39.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MyApplication.Identity\\Model\\ApplicationUser.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "MyApplication.Identity\\Model\\ApplicationUser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:44:05.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyApplication\\appsettings.Development.json",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\appsettings.Development.json",
+              "RelativeToolTip": "MyApplication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T21:51:33.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddSwaggerOptions.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\Swagger\\AddSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "MyApplication\\Swagger\\AddSwaggerOptions.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\Swagger\\AddSwaggerOptions.cs",
+              "RelativeToolTip": "MyApplication\\Swagger\\AddSwaggerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:34:30.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250524123825_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\Migrations\\20250524123825_InitialMigration.cs",
+              "RelativeDocumentMoniker": "MyApplication.Identity\\Migrations\\20250524123825_InitialMigration.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\Migrations\\20250524123825_InitialMigration.cs",
+              "RelativeToolTip": "MyApplication.Identity\\Migrations\\20250524123825_InitialMigration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:38:26.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Contracts\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "MyApplication.Application\\Contracts\\IAuthenticationService.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Contracts\\IAuthenticationService.cs",
+              "RelativeToolTip": "MyApplication.Application\\Contracts\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:24:10.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PasswordResetRequest.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\PasswordResetRequest.cs",
+              "RelativeDocumentMoniker": "MyApplication.Application\\Models\\Authentication\\PasswordResetRequest.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\PasswordResetRequest.cs",
+              "RelativeToolTip": "MyApplication.Application\\Models\\Authentication\\PasswordResetRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:16:03.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "MyApplication.Application\\Models\\Authentication\\JwtSettings.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Application\\Models\\Authentication\\JwtSettings.cs",
+              "RelativeToolTip": "MyApplication.Application\\Models\\Authentication\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:12:36.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyApplication.Identity\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyApplication.Identity\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:44:44.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyApplication.csproj",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\MyApplication.csproj",
+              "RelativeDocumentMoniker": "MyApplication\\MyApplication.csproj",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication\\MyApplication.csproj",
+              "RelativeToolTip": "MyApplication\\MyApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T21:59:16.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyApplication.Identity.csproj",
+              "DocumentMoniker": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\MyApplication.Identity.csproj",
+              "RelativeDocumentMoniker": "MyApplication.Identity\\MyApplication.Identity.csproj",
+              "ToolTip": "D:\\Learning\\MyApplication\\MyApplication\\MyApplication.Identity\\MyApplication.Identity.csproj",
+              "RelativeToolTip": "MyApplication.Identity\\MyApplication.Identity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T21:46:57.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

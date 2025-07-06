@@ -1,0 +1,46 @@
+<aside class="relative transition-all duration-300 ease-in-out bg-white shadow flex flex-col min-h-screen"
+    [ngClass]="isCollapsed ? 'w-8' : 'w-64'">
+    <!-- Collapse/Expand Button -->
+    <button (click)="toggleSidebar()"
+        class="absolute top-1/2 right-0 -translate-y-1/2 translate-x-1/2 bg-blue-600 text-white p-1 rounded-full shadow hover:bg-blue-700 transition z-10">
+        <svg *ngIf="!isCollapsed" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24"
+            stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+        <svg *ngIf="isCollapsed" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24"
+            stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+    </button>
+
+    <!-- Sidebar Content -->
+    <nav class="flex flex-col items-center p-4 space-y-4 flex-grow transition-opacity duration-300 ease-in-out"
+        [ngClass]="{'opacity-0 pointer-events-none': isCollapsed, 'opacity-100': !isCollapsed}">
+        <h2 class="text-xl font-semibold text-gray-800 mb-4">Menu</h2>
+        <hr class="w-3/4 border-gray-300 mb-2" />
+
+        <a routerLink="/dashboard" routerLinkActive="!text-blue-700" [routerLinkActiveOptions]="{ exact: true }"
+            class="text-gray-700 hover:text-blue-600 font-medium w-full text-center py-2 rounded transition-colors">
+            Dashboard
+        </a>
+        <hr class="w-3/4 border-gray-300" />
+
+        <a routerLink="/users" routerLinkActive="!text-blue-700"
+            class="text-gray-700 hover:text-blue-600 font-medium w-full text-center py-2 rounded transition-colors">
+            Users
+        </a>
+        <hr class="w-3/4 border-gray-300" />
+
+        <a routerLink="/reports" routerLinkActive="!text-blue-700"
+            class="text-gray-700 hover:text-blue-600 font-medium w-full text-center py-2 rounded transition-colors">
+            Reports
+        </a>
+        <hr class="w-3/4 border-gray-300" />
+
+        <a routerLink="/settings" routerLinkActive="!text-blue-700"
+            class="text-gray-700 hover:text-blue-600 font-medium w-full text-center py-2 rounded transition-colors">
+            Settings
+        </a>
+        <hr class="w-3/4 border-gray-300" />
+    </nav>
+</aside>

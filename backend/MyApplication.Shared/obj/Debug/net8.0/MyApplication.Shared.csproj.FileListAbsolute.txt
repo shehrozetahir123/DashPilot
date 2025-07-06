@@ -1,0 +1,11 @@
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\bin\Debug\net8.0\MyApplication.Shared.deps.json
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\bin\Debug\net8.0\MyApplication.Shared.dll
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\bin\Debug\net8.0\MyApplication.Shared.pdb
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\obj\Debug\net8.0\MyApplication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\obj\Debug\net8.0\MyApplication.Shared.AssemblyInfoInputs.cache
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\obj\Debug\net8.0\MyApplication.Shared.AssemblyInfo.cs
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\obj\Debug\net8.0\MyApplication.Shared.csproj.CoreCompileInputs.cache
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\obj\Debug\net8.0\MyApplication.Shared.dll
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\obj\Debug\net8.0\refint\MyApplication.Shared.dll
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\obj\Debug\net8.0\MyApplication.Shared.pdb
+D:\Learning\MyApplication\MyApplication\MyApplication.Shared\obj\Debug\net8.0\ref\MyApplication.Shared.dll
